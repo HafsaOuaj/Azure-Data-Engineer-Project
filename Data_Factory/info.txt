@@ -1,0 +1,6 @@
+selected resource name:		DynamicRawCopy
+selected resource type:		pipeline
+factory name:			adf-aw-houajdi
+factory location:		spaincentral
+subscription id:		fc836391-4685-4e9a-b967-0770831676e6
+time of download (UTC):		Sun, 20 Apr 2025 01:49:11 GMT
