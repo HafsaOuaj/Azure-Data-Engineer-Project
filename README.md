@@ -46,7 +46,7 @@ This project showcases a full-stack **data engineering pipeline** using **Azure 
 📁 data/
     ├── silver/                # Original CSVs
     ├── bronze/                # Output of the Databricks transformations as Parquet files
-    └── transformed/           # Output of Azure Synapse Analytics
+    └── gold/           # Output of Azure Synapse Analytics
 
 📁 notebooks/
     └── 01_silver_layer.ipynb
