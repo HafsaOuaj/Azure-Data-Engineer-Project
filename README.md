@@ -6,7 +6,7 @@ This project showcases a full-stack **data engineering pipeline** using **Azure 
 
 ## 📊 Project Overview
 
-![Architecture Diagram](./architecture.png)
+![AWPROJECT (1)](https://github.com/user-attachments/assets/3a04a92e-7b8c-42ff-895f-fbd09d8e74cc)
 
 - **Dataset**: [Adventure Works (Kaggle)](https://www.kaggle.com/datasets)
 - **Pipeline**: Data Factory ➝ Data Lake Gen2 ➝ Databricks ➝ Synapse ➝ Power BI
